@@ -20,6 +20,15 @@ This document is intended to note potential resources and data mapping for the S
 - Carbon Production
 - Ozone Production
 - Energy Consumption
+- Water Consumption
+  - Relative water availability: Available Water Remaining for the United States (AWARE-US) Model: <https://greet.es.anl.gov/aware>
+- Sustainability Indexes
+  - <https://www.sustainalytics.com/>
+  - <https://www.msci.com/our-solutions/climate-investing/climate-indexes>
+  - ASSET4 Database
+  - Environmental Priority Strategies (EPS) database
+- Assessments / Tools
+  - <https://www.lifecyclecenter.se/news/8-tools-for-sustainable-decisions/>
 
 ## Technical Innovation
 

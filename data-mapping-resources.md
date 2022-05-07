@@ -17,6 +17,7 @@ This document is intended to note potential resources and data mapping for the S
 - Socio-economic diversity
   - Income-based Pell grants
     - College Scorecard API: <https://collegescorecard.ed.gov/data/documentation/>
+- First generation college students proportion / index
 
 ## Environmental Consciousness
 
@@ -53,3 +54,5 @@ This document is intended to note potential resources and data mapping for the S
   - Student volunteer/community involvement groups
   - Staff volunteer/community involvement groups
   - Leadership political balance(?)
+  - Data privacy policy availability
+  - Student data collection visibility

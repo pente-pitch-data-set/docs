@@ -1,5 +1,7 @@
 # Student Global Impact Hub - Data Mapping Resources
 
+_Note:_ Moved content to https://docs.google.com/document/d/1SbuDr5UyjC-SsZWgiImPcA5vfJG5li263iApBi0BsiA/edit#
+
 This document is intended to note potential resources and data mapping for the Student Global Impact (SGI) Hub. Said another way, this outlines the data sources and how they align with the triple plus bottom line model used to help compare educational institutions. Generally, these are modeled after and expanded from the [Triple Bottom Line accounting framework](https://en.wikipedia.org/wiki/Triple_bottom_line).
 
 ## Employment Outcomes
